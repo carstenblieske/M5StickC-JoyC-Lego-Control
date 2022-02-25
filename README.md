@@ -1,6 +1,8 @@
 # M5StickC-JoyC-Lego-Control
 The combination of M5StickCPlus & Joyc & Legoino library brings you an excellent experience for your Lego models by giving you the missing remote control for your control+ models.
 
+![](Media/DSC06965.JPG)
+
 # Credits
 * The idea goes back to Sebastien Colas. https://github.com/colas-sebastien/M5StickC-JoyC-lego-powerup-batmobile
 * Many thanks to Legoino creator Cornelius Munz. https://github.com/corneliusmunz/legoino
