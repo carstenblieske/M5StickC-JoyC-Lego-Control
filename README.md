@@ -5,11 +5,10 @@ The combination of M5StickCPlus & Joyc & Legoino library brings you an excellent
 # Configuration
 Hardware:
 
-Controller by M5Stack https://m5stack.com/
-* M5StickCPlus ![](Media/Joyc.jpg)
-* Joyc ![](Media/M5StickCPlus.jpg)
-
 Printed 3D Case https://www.thingiverse.com/thing:4976935
+Controller by M5Stack https://m5stack.com/
+
+* Joyc + M5StickCPlus + Case ![](Media/collage.jpg)
 
 Software
 
@@ -17,6 +16,8 @@ Software
 * Install the Legoino library from the library manager.
 * Clone this repository
 * Upload the code on your M5StickCPlus.
+
+# PLAY
 
 [![Self made controller for your LEGO Control+ Models](Media/youtube_rc..jpg)](https://youtu.be/OuWGxWvFoXs)
 
