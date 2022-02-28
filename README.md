@@ -5,8 +5,8 @@ The combination of M5StickCPlus & Joyc & Legoino library brings you an excellent
 # Configuration
 Hardware:
 
-Printed 3D Case https://www.thingiverse.com/thing:4976935
-Controller by M5Stack https://m5stack.com/
+* Printed 3D Case https://www.thingiverse.com/thing:4976935
+* Controller by M5Stack https://m5stack.com/
 
 * Joyc + M5StickCPlus + Case ![](Media/collage.jpg)
 
