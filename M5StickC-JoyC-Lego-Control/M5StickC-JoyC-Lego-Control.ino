@@ -25,7 +25,7 @@ byte portD = (byte)ControlPlusHubPort::D;
       isCalibrated = false;
       M5.begin();
       myHub.init(); 
-      Wire.begin(0, 26, 400000);
+      Wire.begin(0, 26, (uint32_t)400000);
       M5.Lcd.fillScreen(BLUE);
       M5.Lcd.setCursor(10, 50);
       M5.Lcd.setTextColor(WHITE);
