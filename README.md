@@ -13,6 +13,7 @@ Hardware:
 Software
 
 * Install Arduino IDE and follow the official configuration on M5Stack site.
+* IMPORTANT NOTE: Until th next version of Legoino is released you need to unzip the library yourself and add #include \<string\> into LegoinoCommon.h in order to use it together with the latest M5Stack library.
 * Install the Legoino library from the library manager.
 * Clone this repository
 * Upload the code on your M5StickCPlus.
